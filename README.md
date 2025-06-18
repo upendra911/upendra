@@ -57,7 +57,7 @@ Hello all
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:youremail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="[https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white](https://mail.google.com/mail/u/3/#inbox)" />
   </a>
   <a href="https://yourportfolio.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github&logoColor=white" />
