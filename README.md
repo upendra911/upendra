@@ -35,9 +35,9 @@ Hello all
 
 | 💼 Project | 🔧 Tools Used | 📝 Description |
 |-----------|---------------|----------------|
-| [📦 Blinkit Sales Analysis](https://github.com/yourusername/blinkit-analysis) | SQL, Excel | Sales KPIs, outlet-level trends, and SKU performance insights |
+| [📦 Retail Sales Analysis](https://github.com/upendra911/-Retail-Sales-Analysis-) | SQL, Excel | Sales KPIs, outlet-level trends, and SKU performance insights |
 | [🎬 Movie Revenue Dashboard](https://github.com/yourusername/movie-analysis) | Python, Pandas, Matplotlib | Revenue, budget, genre, and rating analysis |
-| [📈 HR Power BI Dashboard](https://github.com/yourusername/hr-dashboard) | Power BI | Visualized attrition, headcount, and HR KPIs interactively |
+| [📈 HR Power BI Dashboard](https://github.com/upendra911/Dmart-Sales-Dashboard) | Power BI | Visualized attrition, headcount, and HR KPIs interactively |
 
 ---
 
