@@ -44,7 +44,7 @@ Hello all
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github.com/upendra911" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
